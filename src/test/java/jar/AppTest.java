@@ -21,4 +21,5 @@ public class AppTest {
         int result3 = App.add(-5,19);
         assertEquals(14, result3, "-5 + 19 should equal 14");
     }
+    
 }
